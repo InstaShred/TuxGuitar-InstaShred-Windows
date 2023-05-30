@@ -1,0 +1,5 @@
+### Plugin Information ###
+plugin.name=InstaShred
+plugin.description=TuxGuitar Plugin to play on InstaShred guitars
+plugin.author=Lachlan Maloney
+plugin.version=1.0
