@@ -4,7 +4,7 @@ A TuxGuitar plugin to enable the use of this software with InstaShred guitars
 Made with modifications to the [javelin](https://github.com/hdonk/javelin) github project from hdonk and the [TuxGuitar Redraw Listener Plugin](https://sourceforge.net/p/tuxguitar/support-requests/37/) provided by Julian Casadesus.
 
 ## Description
-TuxGuitar is a free and open-source multitrack guitar tablature editor and player written in Java. It can open/edit GuitarPro, PowerTab and TablEdit files. More information on TuxGuitar can be found at its [wiki page](https://en.wikipedia.org/wiki/TuxGuitar). This TuxGuitar-InstaShred-Windows plugin allows for the notes and chords of songs opened in TuxGuitar to be displayed on an InstaShred LED-enabled guitar in [realtime!](https://www.youtube.com/watch?v=LtRkjv9bZKI) 
+TuxGuitar is a free and open-source multitrack guitar tablature editor and player written in Java. It can open/edit GuitarPro, PowerTab and TablEdit files. More information on TuxGuitar can be found at its [wikipedia page](https://en.wikipedia.org/wiki/TuxGuitar). This TuxGuitar-InstaShred-Windows plugin allows for the notes and chords of songs opened in TuxGuitar to be displayed on an InstaShred LED-enabled guitar in [realtime!](https://www.youtube.com/watch?v=LtRkjv9bZKI) 
 
 More information on InstaShred guitars can be found at our [official website](https://www.instashred.com.au/). Happy shredding! 🎸🎼🎵
 
